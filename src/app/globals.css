@@ -21,3 +21,14 @@
     text-wrap: balance;
   }
 }
+
+/** Toolbar styling */
+.toolbar {
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  background: #FFFF00;
+  color: #FF10F0;
+}

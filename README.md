@@ -1,16 +1,16 @@
 Welcome to Robert Luiten's banger website! If you're reading this, you're digging around the source code for some reason.
 
-Kind of weird, but it's chill I guess.
-
 **How to build the greatest website of all time**
 
-To start, simply from the main folder:
-'''
-cd robert-app
-'''
-Then run:
+To start, just run:
 '''
 npx next dev
 '''
+then you'll be good... but beware! Copying this repository comes with an ancient curse which can only be lifted if you complete
+The Three Ancient Trials Of Robert, each one more horrifying and twisted than the last!
 
-The welcome to the wonderful world of Robert Luiten's person website!
+Then welcome to the wonderful world of Robert Luiten's personal website.
+
+**A Note From Our Founder, Robert Luiten Of Robert Luiten Dot Com:**
+
+"Hey, I'm Robert Luiten from Robert Luiten dot com. Uh hey wassup I'm Robert Luiten from Robert Luiten dot com."
