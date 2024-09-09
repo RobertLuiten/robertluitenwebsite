@@ -43,7 +43,7 @@ export default function About() {
     <h1 className="font-bold text-xl">Zeta Iota Gamma Mu Alpha Sigma Presidency</h1>
     <br></br>
     <p>When Robert was admitted to the University of Washington&#44; he immedetely joined the Zeta Iota Gamma Mu Alpha Sigma fraternity&#44; 
-      and currently serves as the President. "I&apos;m Robert Luiten"&#44; he has said&#44; &quot;I&apos;m Robert Luiten from RobertLuiten.com&quot;. And we couldn&apos;t 
+      and currently serves as the President. &quot;I&apos;m Robert Luiten&quot;&#44; he has said&#44; &quot;I&apos;m Robert Luiten from RobertLuiten.com&quot;. And we couldn&apos;t 
       agree more.
     </p>
     <br></br>
